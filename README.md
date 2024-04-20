@@ -5,4 +5,4 @@ Hi! I'm Josh, a 3rd-year computer science and maths student at the University of
 
 ## What I'm working on:
 - Coursework. 
-- "unnamed project". Still in alpha phase, more on this later.
+- Better schedule builer. Still in alpha phase, more on this later.
